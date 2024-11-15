@@ -1,6 +1,8 @@
 # Cassava_Leaf_Disease_Detection
 ## Help Cassava Farmers in Sub-Saharan Africa by Detecting Leaf Diseases
 
+> This project was developed for AI4GoodLab Team Lab.
+
 ## Project Description
 
 This project aims to revolutionize the future for smallholder cassava farmers in Sub-Saharan Africa by leveraging machine learning to detect leaf diseases. Cassava is a critical crop for these communities, serving as the second-largest provider of carbohydrates. However, the crops are increasingly threatened by viral diseases, which significantly reduce yields and jeopardize food security.
