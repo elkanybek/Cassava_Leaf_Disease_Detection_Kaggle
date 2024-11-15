@@ -1,7 +1,7 @@
 # Cassava_Leaf_Disease_Detection
 ## Help Cassava Farmers in Sub-Saharan Africa by Detecting Leaf Diseases
 
-> This project was developed for AI4GoodLab Team Lab.
+> This project was developed for AI4GoodLab Team Lab at Mila Institute..
 
 ## Project Description
 
@@ -10,8 +10,6 @@ This project aims to revolutionize the future for smallholder cassava farmers in
 Our task is to develop a machine learning model that can accurately classify images of cassava leaves into one of four disease categories or identify them as healthy. By providing farmers with a quick and accessible tool to diagnose plant diseases using mobile-quality cameras, we hope to empower them to take swift action, thus ensuring better harvests and sustaining the food supply for millions of families.
 
 This project utilizes a dataset of 21,367 labeled images of cassava leaves, sourced from real Ugandan fields. These images, captured by farmers, reflect the actual challenges faced in the field. Our solution aims to be a significant step towards enhancing the resilience of cassava farming, ultimately contributing to the well-being of communities reliant on this vital crop.
-
-> This project was developed at the AI4Good Lab  at the Mila Institute.
 
 ## Team Members
 
